@@ -9,7 +9,9 @@ As original automake and configure scripts were outdated, a simple Makefile is s
 
 **Prerequisite**
 
-	As PlayTZX relies on OSS sound system, oss-compat, and PulseAudio are required installed on any modern system. Future path is to replace oss-compat with osspd, but that des not perfomrm well on older x86 machine.
+	As PlayTZX relies on OSS sound system, oss-compat, and PulseAudio
+	are required installed on any modern system. Future path is to replace
+	oss-compat with osspd, but that des not perfomrm well on older x86 machine.
 
 
 **How to build**
