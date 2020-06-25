@@ -16,6 +16,5 @@ As original automake and configure scripts were outdated, a simple Makefile is s
 
 **How to build**
 
-	$ make clean
 	$ make
 	$ [sudo] make install
